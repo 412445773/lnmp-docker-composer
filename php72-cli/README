@@ -1,0 +1,1 @@
+docker build -t janfish/php-cli:phalcon .
